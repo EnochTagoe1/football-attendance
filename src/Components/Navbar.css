@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #a8a4a4;
+    height: 80px;
+    color:blue;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.navbar-title {
+    margin: 0;
+}

@@ -1,0 +1,14 @@
+.players-list {
+    background-color: gold;
+    color: blue;
+    width: 450px;
+    min-height: 300px;
+    border-radius: 8px;
+}
+.players-list ul {
+    /* list-style: none; */
+    all:unset;
+}
+.players-list-location {
+    color: green;
+}
